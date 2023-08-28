@@ -3,5 +3,6 @@ This is an initial integrated flow of PyLog &amp; HLS4M. PyLog is a Python-based
 
 ## Related Works 
 PyLog: https://github.com/hst10/pylog/tree/master
+
 HLS4ML: https://github.com/fastmachinelearning/hls4ml
 
