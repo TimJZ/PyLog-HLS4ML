@@ -8,5 +8,5 @@ HLS4ML: https://github.com/fastmachinelearning/hls4ml
 ## Installation  
 Please ensure that PyLog and HLS4ML are installed and can be executed correctly on your local enviornment first before trying this project. Each procedure can be found in the github repositories. Please refer to the related works for further insturctions. 
 
-## Getting Started 
+
 
