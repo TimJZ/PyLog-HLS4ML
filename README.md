@@ -2,7 +2,8 @@
 An integrated flow of PyLog &amp; HLS4ML
 
 ##
-PyLog: An Algorithm-Centric FPGA Programming and Synthesis Flow  
+PyLog: An Algorithm-Centric FPGA Programming and Synthesis Flow 
+
 Original github repo: https://github.com/hst10/pylog/tree/master 
 
 ##
