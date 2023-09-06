@@ -1,7 +1,7 @@
 [submodule "pylog"]
 	path = pylog-hls4ml/pylog
-	url = git@github.com:hst10/pylog.git
+	url = git@github.com:TimJZ/pylog.git
 
 [submodule "hls4ml"]
 	path = pylog-hls4ml/hls4ml
-	url = git@github.com:fastmachinelearning/hls4ml.git
+	url = git@github.com:TimJZ/hls4ml.git
